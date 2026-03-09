@@ -148,7 +148,7 @@ npx json-server --watch db.json --port 3000
 2️⃣ Start the Development Server
 npm run dev
 3️⃣ Open in Browser
-http://localhost:5173
+https://fittrackpro-5250.netlify.app
 🌍 Deployment
 
 The project is deployment-ready and supports:
