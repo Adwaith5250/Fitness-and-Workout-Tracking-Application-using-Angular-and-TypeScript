@@ -1,0 +1,19 @@
+{
+  "workouts": [
+    { "id": 1, "name": "Iron Foundations", "category": "strength", "difficulty": "intermediate", "duration": 55, "calories": 420 },
+    { "id": 2, "name": "Cardio Blitz",     "category": "cardio",   "difficulty": "beginner",     "duration": 30, "calories": 300 },
+    { "id": 3, "name": "Serenity Flow",    "category": "yoga",     "difficulty": "beginner",     "duration": 45, "calories": 180 },
+    { "id": 4, "name": "HIIT Inferno",     "category": "cardio",   "difficulty": "advanced",     "duration": 25, "calories": 380 },
+    { "id": 5, "name": "Hypertrophy Edge", "category": "strength", "difficulty": "advanced",     "duration": 70, "calories": 510 },
+    { "id": 6, "name": "Core Forge",       "category": "strength", "difficulty": "intermediate", "duration": 35, "calories": 260 }
+  ],
+  "users": [
+    { "id": 1, "name": "Alex Morgan", "age": 28, "weight": 77, "height": 178, "targetWeight": 75, "weeklyTarget": 5 }
+  ],
+  "progressLogs": [
+    { "id": 1, "userId": 1, "workout": "Iron Foundations", "date": "2025-06-08", "duration": 58, "calories": 430, "rating": 5 },
+    { "id": 2, "userId": 1, "workout": "HIIT Inferno",     "date": "2025-06-06", "duration": 27, "calories": 375, "rating": 4 },
+    { "id": 3, "userId": 1, "workout": "Serenity Flow",    "date": "2025-06-04", "duration": 48, "calories": 190, "rating": 5 },
+    { "id": 4, "userId": 1, "workout": "Cardio Blitz",     "date": "2025-06-02", "duration": 32, "calories": 315, "rating": 3 }
+  ]
+}
